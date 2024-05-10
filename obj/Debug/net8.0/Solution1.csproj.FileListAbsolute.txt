@@ -1,0 +1,17 @@
+/Users/admin/Documents/csharpProjects/MercuruiTasks/Projects/Solution1/bin/Debug/net8.0/Solution1
+/Users/admin/Documents/csharpProjects/MercuruiTasks/Projects/Solution1/bin/Debug/net8.0/Solution1.deps.json
+/Users/admin/Documents/csharpProjects/MercuruiTasks/Projects/Solution1/bin/Debug/net8.0/Solution1.runtimeconfig.json
+/Users/admin/Documents/csharpProjects/MercuruiTasks/Projects/Solution1/bin/Debug/net8.0/Solution1.dll
+/Users/admin/Documents/csharpProjects/MercuruiTasks/Projects/Solution1/bin/Debug/net8.0/Solution1.pdb
+/Users/admin/Documents/csharpProjects/MercuruiTasks/Projects/Solution1/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/admin/Documents/csharpProjects/MercuruiTasks/Projects/Solution1/obj/Debug/net8.0/Solution1.csproj.AssemblyReference.cache
+/Users/admin/Documents/csharpProjects/MercuruiTasks/Projects/Solution1/obj/Debug/net8.0/Solution1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/csharpProjects/MercuruiTasks/Projects/Solution1/obj/Debug/net8.0/Solution1.AssemblyInfoInputs.cache
+/Users/admin/Documents/csharpProjects/MercuruiTasks/Projects/Solution1/obj/Debug/net8.0/Solution1.AssemblyInfo.cs
+/Users/admin/Documents/csharpProjects/MercuruiTasks/Projects/Solution1/obj/Debug/net8.0/Solution1.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/csharpProjects/MercuruiTasks/Projects/Solution1/obj/Debug/net8.0/Solution1.csproj.CopyComplete
+/Users/admin/Documents/csharpProjects/MercuruiTasks/Projects/Solution1/obj/Debug/net8.0/Solution1.dll
+/Users/admin/Documents/csharpProjects/MercuruiTasks/Projects/Solution1/obj/Debug/net8.0/refint/Solution1.dll
+/Users/admin/Documents/csharpProjects/MercuruiTasks/Projects/Solution1/obj/Debug/net8.0/Solution1.pdb
+/Users/admin/Documents/csharpProjects/MercuruiTasks/Projects/Solution1/obj/Debug/net8.0/Solution1.genruntimeconfig.cache
+/Users/admin/Documents/csharpProjects/MercuruiTasks/Projects/Solution1/obj/Debug/net8.0/ref/Solution1.dll

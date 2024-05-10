@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mD6xvF5r0Sz6J4kJkG6TYakbC7T1Kbg1VKuQXxlw29BmynzbUsie3dz31KyeJ9ueCWNx8BBVOy9tufRsxKu8xQ==",
+  "success": true,
+  "projectFilePath": "/Users/admin/Documents/csharpProjects/MercuruiTasks/Projects/Solution1/Solution1.csproj",
+  "expectedPackageFiles": [
+    "/Users/admin/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
